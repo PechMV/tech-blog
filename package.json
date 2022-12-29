@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/PechMV/tech-blog#readme",
   "dependencies": {
+    "bulma": "^0.9.4",
     "dotenv": "^16.0.3",
     "mysql": "^2.18.1",
     "sequelize": "^6.26.0"
